@@ -1,4 +1,4 @@
-# DocumentiAziendali
+# Documenti Aziendali
 
 Progetto Azienda Simulata
 
