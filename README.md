@@ -19,4 +19,4 @@ SITO WEB: Fornaro, Cattaneo, Polito
 
 VIDEO: Fornaro
 
-ESTETICA: Vernocchi, Zatti, Tavecchio
+ESTETICA: Vernocchi, Miele, Tavecchio
